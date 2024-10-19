@@ -9,7 +9,7 @@
             <sparkle:tags>
             <sparkle:criticalUpdate/>
             </sparkle:tags>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.moonwink.treasury" sparkle:version="1.1.0" sparkle:os="android" sparkle:criticalUpdate="true" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.moonwink.treasury" sparkle:version="1.0.0" sparkle:os="android" sparkle:criticalUpdate="true" />
         </item>
     </channel>
 </rss>
