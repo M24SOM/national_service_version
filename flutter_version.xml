@@ -9,7 +9,7 @@
             <sparkle:tags>
             <sparkle:criticalUpdate/>
             </sparkle:tags>
-            <enclosure url="https://nationalelectronics.so" sparkle:version="1.0.0" sparkle:os="android" sparkle:criticalUpdate="true" />
+            <enclosure url="https://nationalelectronics.so" sparkle:version="1.1.0" sparkle:os="android" sparkle:criticalUpdate="true" />
         </item>
     </channel>
 </rss>
