@@ -1,15 +1,15 @@
 <?xml version="2.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>Debt Now App - Appcast</title>
+        <title>NATIONAL ELECTRONICS</title>
         <item>
-            <title>Version 1.15.0</title>
+            <title>Version 1.2.0</title>
             <description>Minor updates and improvements.</description>
-            <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
+            <pubDate>Sun, 31 AUG 2025 12:00:00 +0000</pubDate>
             <sparkle:tags>
             <sparkle:criticalUpdate/>
             </sparkle:tags>
-            <enclosure url="https://nationalelectronics.so" sparkle:version="1.1.0" sparkle:os="android" sparkle:criticalUpdate="true" />
+            <enclosure url="https://nationalelectronics.so" sparkle:version="1.2.0" sparkle:os="android" sparkle:criticalUpdate="true" />
         </item>
     </channel>
 </rss>
